@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dobonggu.8222quick.com/sitemap.xml
+
+
+
